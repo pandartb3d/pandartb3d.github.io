@@ -6,6 +6,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
 http://github.com - automatic!
 [GitHub](http://github.com)
 
