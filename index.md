@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-[![Twitter URL](https://img.icons8.com/windows/50/000000/itch-io.png)](www.google.com)
+[![Twitter URL](https://img.icons8.com/windows/50/000000/itch-io.png)](https://google.com)
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
