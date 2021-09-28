@@ -6,6 +6,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
+http://github.com - automatic!
+[GitHub](http://github.com)
+
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
+
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
