@@ -1,4 +1,11 @@
-[![Twitter URL](https://img.icons8.com/ios-glyphs/60/000000/reddit.png)](https://google.com)
+[![E-Mail](https://img.icons8.com/ios-glyphs/30/000000/email.png)](pandartb3d@gmail.com)
+
+[![Twitter URL](https://img.icons8.com/windows/64/000000/twitter.png)](https://twitter.com/pandartb3d)
 
 
-[![Twitter URL](https://img.icons8.com/windows/64/000000/twitter.png)](https://google.com)
+[![Reddit URL](https://img.icons8.com/ios-glyphs/30/000000/twitter--v1.png)](https://www.reddit.com/user/pandartb3d)
+
+
+[![Twitch URL](https://img.icons8.com/ios-glyphs/30/000000/twitch.png)](https://www.twitch.tv/pandartb3d)
+
+
