@@ -13,6 +13,9 @@
 [![Artstation URL](https://img.icons8.com/windows/30/000000/artstation.png)](https://www.artstation.com/pandartb3d)
 
 
+[![Imgur URL](https://img.icons8.com/ios-filled/30/000000/imgur.png)](https://imgur.com/user/pandartb3d)
+
+
 [![Itch.io URL](https://img.icons8.com/ios-glyphs/30/000000/itch-io.png)](https://pandartb3d.itch.io/)
 
 
