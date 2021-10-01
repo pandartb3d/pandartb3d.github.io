@@ -1,5 +1,7 @@
 [![E-Mail](https://img.icons8.com/ios-glyphs/30/000000/email.png)](mailto:pandartb3d@gmail.com)
 
+[Link to another page](./post.html).
+
 
 
 [![Twitter URL](https://img.icons8.com/ios-glyphs/30/000000/twitter--v1.png)](https://twitter.com/pandartb3d)
