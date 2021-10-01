@@ -1,4 +1,4 @@
-[![E-Mail](https://img.icons8.com/ios-glyphs/30/000000/email.png)](mailto: pandartb3d@gmail.com)
+[![E-Mail](https://img.icons8.com/ios-glyphs/30/000000/email.png)](mailto:pandartb3d@gmail.com)
 
 [![Twitter URL](https://img.icons8.com/ios-glyphs/30/000000/twitter--v1.png)](https://twitter.com/pandartb3d)
 
