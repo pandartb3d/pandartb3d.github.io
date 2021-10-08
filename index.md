@@ -1,7 +1,7 @@
-[![E-Mail](https://img.icons8.com/ios-glyphs/30/000000/email.png)](mailto:pandartb3d@gmail.com)
+[![E-Mail](https://img.icons8.com/ios-glyphs/30/000000/email.png)](mailto:pandartb3d@gmail.com)pandartb3d@gmail.com
 
 
-[![Github URL](https://img.icons8.com/ios-glyphs/30/000000/github.png)](https://github.com/pandartb3d)
+[![Github URL](https://img.icons8.com/ios-glyphs/30/000000/github.png)](https://github.com/pandartb3d)https://github.com/pandartb3d
 
 
 [![Twitter URL](https://img.icons8.com/ios-glyphs/30/000000/twitter--v1.png)](https://twitter.com/pandartb3d)
