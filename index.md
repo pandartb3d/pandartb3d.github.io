@@ -23,9 +23,5 @@
 
 [![Twitch URL](https://img.icons8.com/ios-glyphs/30/000000/twitch.png)](https://www.twitch.tv/pandartb3d)[twitch](https://www.twitch.tv/pandartb3d)
 
-
-[![TikTok URL](https://img.icons8.com/ios-glyphs/30/000000/tiktok.png)](https://www.tiktok.com/@pandartb3d)[tiktok](https://www.tiktok.com/@pandartb3d)
-
-
 [Link to another page](./another-page.html).
 
