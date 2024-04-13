@@ -4,6 +4,6 @@ layout: default
 
 ## project 1
 
-test
+Pictures
 
 [back](./)
